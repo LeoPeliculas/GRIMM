@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 TVG-LOGO="https://images-na.ssl-images-amazon.com/images/I/81wHb%2BtYeCL._AC_SY445_.jpg", TEMPORADA 1
+https://github.com/LeoPeliculas/GRIMM/raw/main/GRIMM%20(T01).M3U
+
+#EXTINF:-1 TVG-LOGO="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Grimm_Season_2_DVD.jpg/250px-Grimm_Season_2_DVD.jpg", TEMPORADA 2
+https://github.com/LeoPeliculas/GRIMM/raw/main/GRIMM%20(T02).M3U
+
+#EXTINF:-1 TVG-LOGO="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Grimm_Season_3_DVD.jpg/250px-Grimm_Season_3_DVD.jpg", TEMPORADA 3
+https://github.com/LeoPeliculas/GRIMM/raw/main/GRIMM%20(T03).M3U
+
+#EXTINF:-1 TVG-LOGO="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Grimm_Season_4_DVD.jpg/250px-Grimm_Season_4_DVD.jpg", TEMPORADA 4
+https://github.com/LeoPeliculas/GRIMM/raw/main/GRIMM%20(T04).M3U
+
+#EXTINF:-1 TVG-LOGO="https://upload.wikimedia.org/wikipedia/en/5/5f/Grimm_S5_DVD.jpg", TEMPORADA 5
+https://github.com/LeoPeliculas/GRIMM/raw/main/GRIMM%20(T05).M3U
